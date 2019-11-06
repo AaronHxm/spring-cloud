@@ -1,9 +1,0 @@
-server:
-  port: 8802
-spring:
-  application:
-    name: order-server
-eureka:
-  client:
-    serviceUrl:
-      defaultZone: http://localhost:8761/eureka/
